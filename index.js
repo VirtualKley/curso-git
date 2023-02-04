@@ -58,6 +58,10 @@ const loadAdds = () => {
   console.log('Adds loaded');
 }
 
+const affiliateRedirect = () => {
+  //fix bug
+}
+
 // test commit
 
 //cambio 1
